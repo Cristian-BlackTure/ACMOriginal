@@ -1,17 +1,17 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "ACM Original"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "ACM"
 
 #your name
-author: "You"
+author: "Cristian BlackTure and Luke BlackTure"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "ACM.ACM"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Destructive."
 
 #the mod version
 version: 1.0
